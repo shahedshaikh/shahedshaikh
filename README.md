@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Shahed 👋 </h1>
+<h1 align="center"> Hi, I'm Shahed Shaikh 👋 </h1>
 <h3 align="center">🚀 About Me</h3>
 
 <p align="left"></p>
