@@ -1,74 +1,104 @@
-<h1 align="center"> Hi, I'm Shahed Shaikh 👋 </h1>
-<h3 align="center">🚀 About Me</h3>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Shahed%20Shaikh&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<p align="left"></p>
+<h3 align="center">Senior Business Intelligence Developer | Data & Analytics Specialist</h3>
 
-- 🔭 Currently working at:
-  <ul>
-    <li><b>Workfall India Pvt Ltd</b> as <b>Senior Business Intelligence Developer</b></li>
-    <li>Advanced Power BI dashboards for procurement, payroll, and operations</li>
-    <li>End-to-end data models using SQL Server, SharePoint, and Microsoft Fabric</li>
-    <li>Automating reporting pipelines using Power Automate and Azure</li>
-    <li>Exploring API-based data ingestion (Amazon SP-API)</li>
-  </ul>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Power+BI+%7C+Microsoft+Fabric+%7C+Azure+Analytics;Designing+Scalable+and+High-Performance+BI+Solutions;Turning+Complex+Data+into+Decision-Ready+Insights" />
+</p>
 
-- 👯 Looking to collaborate on:
-  <ul>
-    <li>Business Intelligence & enterprise reporting solutions</li>
-    <li>Microsoft Fabric projects (Lakehouse, Warehouse, Dataflows Gen2)</li>
-    <li>Data modeling, performance optimization, and DAX best practices</li>
-    <li>Analytics projects in finance, manufacturing, banking, and operations</li>
-  </ul>
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:56CCF2&height=2" />
+</p>
 
-- 🤝 Looking for help with:
-  <ul>
-    <li>Advanced Microsoft Fabric architecture patterns</li>
-    <li>Scalable data engineering and CI/CD for BI solutions</li>
-    <li>Large semantic models and performance tuning</li>
-  </ul>
+---
 
-- 🌱 Currently learning:
-  <ul>
-    <li>Advanced DAX optimization techniques</li>
-    <li>Data engineering workflows in Microsoft Fabric</li>
-    <li>REST API integration with Power BI and Azure</li>
-    <li>Applied analytics and ML for business use cases</li>
-  </ul>
+<h2>🚀 About Me</h2>
 
-- 💬 Ask me about:
-  <ul>
-    <li>Power BI (DAX, Power Query, data modeling, performance tuning)</li>
-    <li>Microsoft Fabric & Azure Data Stack</li>
-    <li>SQL Server & relational data modeling</li>
-    <li>Power Automate for analytics automation</li>
-    <li>Executive-ready dashboards and reports</li>
-  </ul>
-
-- ⚡ Fun fact:
-  <b>I enjoy transforming complex datasets into clear, decision-ready insights—and I treat performance optimization as a personal challenge.</b>
-
-<br/>
-
-<h2>📫 Contact & Socials</h2>
+<p>
+I’m a <b>Senior Business Intelligence Developer</b> with strong experience in building
+enterprise-grade analytics solutions across procurement, payroll, finance, and operations.
+My focus is on <b>performance-optimized data models</b>, <b>scalable architectures</b>,
+and <b>executive-ready dashboards</b>.
+</p>
 
 <ul>
-  <li>LinkedIn: 
+  <li>🏢 <b>Currently at:</b> Workfall India Pvt Ltd</li>
+  <li>📊 Advanced Power BI dashboards for procurement, payroll, and operations</li>
+  <li>🏗️ End-to-end data models using SQL Server, SharePoint, PostgreSQL, and Microsoft Fabric</li>
+  <li>⚙️ Automated reporting pipelines with Power Automate and Azure</li>
+  <li>🔌 API-based data ingestion (Amazon SP-API)</li>
+</ul>
+
+---
+
+<h2>🤝 Collaboration & Interests</h2>
+
+<ul>
+  <li>Enterprise Business Intelligence & reporting solutions</li>
+  <li>Microsoft Fabric (Lakehouse, Warehouse, Dataflows Gen2)</li>
+  <li>Data modeling, DAX optimization, and performance tuning</li>
+  <li>Analytics use cases in finance, manufacturing, banking, and operations</li>
+</ul>
+
+---
+
+<h2>🧠 Currently Exploring</h2>
+
+<ul>
+  <li>Advanced DAX optimization & large semantic models</li>
+  <li>Scalable data engineering workflows in Microsoft Fabric</li>
+  <li>REST API integration with Power BI & Azure</li>
+  <li>Applied analytics & ML for business use cases</li>
+</ul>
+
+---
+
+<h2>💬 Ask Me About</h2>
+
+<ul>
+  <li>Power BI (DAX, Power Query, modeling, performance optimization)</li>
+  <li>Microsoft Fabric & Azure Analytics Stack</li>
+  <li>SQL Server & relational data design</li>
+  <li>Power Automate for analytics automation</li>
+  <li>Executive dashboards & data storytelling</li>
+</ul>
+
+---
+
+<h2>⚡ Fun Fact</h2>
+
+<p>
+I treat performance optimization like a puzzle—and I don’t stop until the model runs fast,
+clean, and scalable.
+</p>
+
+---
+
+<h2>📫 Connect With Me</h2>
+
+<ul>
+  <li>
+    LinkedIn:
     <a href="https://www.linkedin.com/in/shahed-shaikh-4608a110b/" target="_blank">
       Shahed Shaikh
     </a>
   </li>
-  <li>Bluesky:
+  <li>
+    Bluesky:
     <a href="https://bsky.app/profile/shahedshaikh" target="_blank">
       @shahedshaikh
     </a>
   </li>
 </ul>
 
-<br/>
+---
 
 <h2>💻 Tech Stack</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -80,9 +110,14 @@
   <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-<br/>
+<!-- Animated Skill Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,postgres,python,github&theme=dark" />
+</p>
 
-<h2>📊 GitHub Stats</h2>
+---
+
+<h2>📊 GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahedshaikh&theme=dark&hide_border=false"/>
@@ -92,9 +127,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedshaikh&layout=compact&theme=dark&hide_border=false"/>
 </p>
 
-<br/>
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahedshaikh&theme=react-dark&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=shahedshaikh&icon=0&color=0"/>
 </p>
 
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" />
