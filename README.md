@@ -15,6 +15,56 @@
 
 ---
 
+<!-- Animated Data to Power BI Flow -->
+<p align="center">
+<svg width="720" height="160" viewBox="0 0 720 160" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Raw Data -->
+  <rect x="30" y="50" rx="12" ry="12" width="160" height="60" fill="#2F80ED"/>
+  <text x="110" y="78" text-anchor="middle" fill="white" font-size="14" font-family="Arial">
+    Raw Data
+  </text>
+  <text x="110" y="96" text-anchor="middle" fill="#D6E9FF" font-size="12" font-family="Arial">
+    SQL • APIs • Files
+  </text>
+
+  <!-- Arrow -->
+  <line x1="190" y1="80" x2="290" y2="80" stroke="#58A6FF" stroke-width="3"/>
+  <polygon points="290,80 280,74 280,86" fill="#58A6FF"/>
+
+  <!-- Processing -->
+  <rect x="300" y="45" rx="12" ry="12" width="180" height="70" fill="#203A43"/>
+  <text x="390" y="75" text-anchor="middle" fill="white" font-size="14" font-family="Arial">
+    Data Modeling & DAX
+  </text>
+  <text x="390" y="95" text-anchor="middle" fill="#9DDCFF" font-size="12" font-family="Arial">
+    Power Query • Fabric • Azure
+  </text>
+
+  <!-- Arrow -->
+  <line x1="480" y1="80" x2="580" y2="80" stroke="#58A6FF" stroke-width="3"/>
+  <polygon points="580,80 570,74 570,86" fill="#58A6FF"/>
+
+  <!-- Power BI -->
+  <rect x="590" y="45" rx="12" ry="12" width="100" height="70" fill="#F2C811"/>
+  <text x="640" y="75" text-anchor="middle" fill="black" font-size="14" font-family="Arial">
+    Power BI
+  </text>
+  <text x="640" y="95" text-anchor="middle" fill="black" font-size="12" font-family="Arial">
+    Insights
+  </text>
+
+  <!-- Animated Data Flow -->
+  <circle r="6" fill="#FFFFFF">
+    <animateMotion dur="3s" repeatCount="indefinite"
+      path="M110 80 L390 80 L640 80"/>
+  </circle>
+
+</svg>
+</p>
+
+---
+
 <h2>🚀 About Me</h2>
 
 <p>
@@ -110,7 +160,6 @@ clean, and scalable.
   <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-<!-- Animated Skill Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,postgres,python,github&theme=dark" />
 </p>
@@ -120,14 +169,13 @@ clean, and scalable.
 <h2>📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahedshaikh&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahedshaikh&theme=dark"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shahedshaikh&theme=dark&hide_border=false"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shahedshaikh&theme=dark"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedshaikh&layout=compact&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedshaikh&layout=compact&theme=dark"/>
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahedshaikh&theme=react-dark&hide_border=true" />
 </p>
@@ -138,3 +186,4 @@ clean, and scalable.
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" />
+
