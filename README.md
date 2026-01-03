@@ -1,18 +1,100 @@
-# 💫 About Me:
-🔭 I’m currently working on Workfall India Pvt Ltd as Senior Business Intelligence Developer<br><br>Advanced Power BI dashboards for procurement, payroll, and operational analytics<br><br>End-to-end data models using SQL Server, SharePoint, and Microsoft Fabric<br><br>Automating reporting pipelines with Power Automate and Azure services<br><br>Exploring API-based data ingestion, including Amazon SP-API for analytics use cases<br><br>👯 I’m looking to collaborate on<br><br>Business Intelligence and enterprise reporting solutions<br><br>Microsoft Fabric projects (Lakehouse, Warehouse, Dataflows Gen2)<br><br>Data modeling, performance optimization, and DAX best practices<br><br>Analytics projects in finance, manufacturing, banking, or operations<br><br>🤝 I’m looking for help with<br><br>Advanced Microsoft Fabric architecture patterns<br><br>Scalable data engineering and CI/CD for BI solutions<br><br>Best practices for large semantic models and performance tuning<br><br>🌱 I’m currently learning<br><br>Advanced DAX optimization techniques<br><br>Data engineering workflows in Microsoft Fabric<br><br>Integrating REST APIs with Power BI and Azure<br><br>Applied analytics and ML concepts for business use cases<br><br>💬 Ask me about<br><br>Power BI (DAX, Power Query, data modeling, performance tuning)<br><br>Microsoft Fabric & Azure data stack<br><br>SQL Server and relational data modeling<br><br>Automating analytics with Power Automate<br><br>Building executive-ready dashboards and reports<br><br>⚡ Fun fact<br><br>I enjoy transforming complex, messy datasets into clear, decision-ready insights—and I take performance optimization as a personal challenge.
+<h1 align="center"> Hi, I'm Shahed 👋 </h1>
+<h3 align="center">🚀 About Me</h3>
 
+<p align="left"></p>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/shahedshaikh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahed-shaikh-4608a110b/) 
+- 🔭 Currently working at:
+  <ul>
+    <li><b>Workfall India Pvt Ltd</b> as <b>Senior Business Intelligence Developer</b></li>
+    <li>Advanced Power BI dashboards for procurement, payroll, and operations</li>
+    <li>End-to-end data models using SQL Server, SharePoint, and Microsoft Fabric</li>
+    <li>Automating reporting pipelines using Power Automate and Azure</li>
+    <li>Exploring API-based data ingestion (Amazon SP-API)</li>
+  </ul>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahedshaikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahedshaikh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahedshaikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 👯 Looking to collaborate on:
+  <ul>
+    <li>Business Intelligence & enterprise reporting solutions</li>
+    <li>Microsoft Fabric projects (Lakehouse, Warehouse, Dataflows Gen2)</li>
+    <li>Data modeling, performance optimization, and DAX best practices</li>
+    <li>Analytics projects in finance, manufacturing, banking, and operations</li>
+  </ul>
 
----
-[![](https://visitcount.itsvg.in/api?id=shahedshaikh&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🤝 Looking for help with:
+  <ul>
+    <li>Advanced Microsoft Fabric architecture patterns</li>
+    <li>Scalable data engineering and CI/CD for BI solutions</li>
+    <li>Large semantic models and performance tuning</li>
+  </ul>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌱 Currently learning:
+  <ul>
+    <li>Advanced DAX optimization techniques</li>
+    <li>Data engineering workflows in Microsoft Fabric</li>
+    <li>REST API integration with Power BI and Azure</li>
+    <li>Applied analytics and ML for business use cases</li>
+  </ul>
+
+- 💬 Ask me about:
+  <ul>
+    <li>Power BI (DAX, Power Query, data modeling, performance tuning)</li>
+    <li>Microsoft Fabric & Azure Data Stack</li>
+    <li>SQL Server & relational data modeling</li>
+    <li>Power Automate for analytics automation</li>
+    <li>Executive-ready dashboards and reports</li>
+  </ul>
+
+- ⚡ Fun fact:
+  <b>I enjoy transforming complex datasets into clear, decision-ready insights—and I treat performance optimization as a personal challenge.</b>
+
+<br/>
+
+<h2>📫 Contact & Socials</h2>
+
+<ul>
+  <li>LinkedIn: 
+    <a href="https://www.linkedin.com/in/shahed-shaikh-4608a110b/" target="_blank">
+      Shahed Shaikh
+    </a>
+  </li>
+  <li>Bluesky:
+    <a href="https://bsky.app/profile/shahedshaikh" target="_blank">
+      @shahedshaikh
+    </a>
+  </li>
+</ul>
+
+<br/>
+
+<h2>💻 Tech Stack</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+<br/>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahedshaikh&theme=dark&hide_border=false"/>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shahedshaikh&theme=dark&hide_border=false"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedshaikh&layout=compact&theme=dark&hide_border=false"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=shahedshaikh&icon=0&color=0"/>
+</p>
+
