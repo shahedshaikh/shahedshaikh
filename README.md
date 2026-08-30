@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Shahed%20Shaikh&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<h3 align="center">Senior Business Intelligence Developer | Data & Analytics Specialist</h3>
+<h3 align="center">Principle Business Intelligence | Data & Analytics Specialist</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -68,14 +68,14 @@
 <h2>🚀 About Me</h2>
 
 <p>
-I’m a <b>Senior Business Intelligence Developer</b> with strong experience in building
+I’m a <b>Principle Business Intelligence</b> with strong experience in building
 enterprise-grade analytics solutions across procurement, payroll, finance, and operations.
 My focus is on <b>performance-optimized data models</b>, <b>scalable architectures</b>,
 and <b>executive-ready dashboards</b>.
 </p>
 
 <ul>
-  <li>🏢 <b>Currently at:</b> Workfall India Pvt Ltd</li>
+  <li>🏢 <b>Currently at:</b> A|M|S</li>
   <li>📊 Advanced Power BI dashboards for procurement, payroll, and operations</li>
   <li>🏗️ End-to-end data models using SQL Server, SharePoint, PostgreSQL, and Microsoft Fabric</li>
   <li>⚙️ Automated reporting pipelines with Power Automate and Azure</li>
