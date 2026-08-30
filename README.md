@@ -1,189 +1,695 @@
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Shahed%20Shaikh&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<!-- ========================================================= -->
+<!--                         HERO                              -->
+<!-- ========================================================= -->
 
-<h3 align="center">Principle Business Intelligence | Data & Analytics Specialist</h3>
-
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Power+BI+%7C+Microsoft+Fabric+%7C+Azure+Analytics;Designing+Scalable+and+High-Performance+BI+Solutions;Turning+Complex+Data+into+Decision-Ready+Insights" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Shahed%20Shaikh&fontSize=46&fontColor=ffffff&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
-<!-- Divider -->
+<h1 align="center">
+  Principal Business Intelligence & Data Analytics Specialist
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:56CCF2&height=2" />
+  <b>Power BI</b> •
+  <b>Microsoft Fabric</b> •
+  <b>Azure Analytics</b> •
+  <b>Data Engineering</b> •
+  <b>AI Analytics</b>
 </p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=21&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=800&lines=Building+Scalable+Enterprise+BI+Solutions;Designing+High-Performance+Power+BI+Models;Turning+Complex+Data+into+Decision-Ready+Insights;Exploring+AI-Powered+Analytics+%26+Intelligent+Applications"
+  />
+</p>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/shahed-shaikh-4608a110/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/shahedshaikh">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"
+    />
+  </a>
+
+  <a href="https://bsky.app/profile/shahedshaikh">
+    <img
+      src="https://img.shields.io/badge/Bluesky-Follow-0285FF?style=flat-square&logo=bluesky&logoColor=white"
+    />
+  </a>
+
+</p>
+
+<br>
 
 ---
 
-<!-- Animated Data to Power BI Flow -->
-<p align="center">
-<svg width="720" height="160" viewBox="0 0 720 160" xmlns="http://www.w3.org/2000/svg">
+<!-- ========================================================= -->
+<!--                       ABOUT ME                             -->
+<!-- ========================================================= -->
 
-  <!-- Raw Data -->
-  <rect x="30" y="50" rx="12" ry="12" width="160" height="60" fill="#2F80ED"/>
-  <text x="110" y="78" text-anchor="middle" fill="white" font-size="14" font-family="Arial">
-    Raw Data
-  </text>
-  <text x="110" y="96" text-anchor="middle" fill="#D6E9FF" font-size="12" font-family="Arial">
-    SQL • APIs • Files
-  </text>
-
-  <!-- Arrow -->
-  <line x1="190" y1="80" x2="290" y2="80" stroke="#58A6FF" stroke-width="3"/>
-  <polygon points="290,80 280,74 280,86" fill="#58A6FF"/>
-
-  <!-- Processing -->
-  <rect x="300" y="45" rx="12" ry="12" width="180" height="70" fill="#203A43"/>
-  <text x="390" y="75" text-anchor="middle" fill="white" font-size="14" font-family="Arial">
-    Data Modeling & DAX
-  </text>
-  <text x="390" y="95" text-anchor="middle" fill="#9DDCFF" font-size="12" font-family="Arial">
-    Power Query • Fabric • Azure
-  </text>
-
-  <!-- Arrow -->
-  <line x1="480" y1="80" x2="580" y2="80" stroke="#58A6FF" stroke-width="3"/>
-  <polygon points="580,80 570,74 570,86" fill="#58A6FF"/>
-
-  <!-- Power BI -->
-  <rect x="590" y="45" rx="12" ry="12" width="100" height="70" fill="#F2C811"/>
-  <text x="640" y="75" text-anchor="middle" fill="black" font-size="14" font-family="Arial">
-    Power BI
-  </text>
-  <text x="640" y="95" text-anchor="middle" fill="black" font-size="12" font-family="Arial">
-    Insights
-  </text>
-
-  <!-- Animated Data Flow -->
-  <circle r="6" fill="#FFFFFF">
-    <animateMotion dur="3s" repeatCount="indefinite"
-      path="M110 80 L390 80 L640 80"/>
-  </circle>
-
-</svg>
-</p>
-
----
-
-<h2>🚀 About Me</h2>
+<h2>👋 About Me</h2>
 
 <p>
-I’m a <b>Principle Business Intelligence</b> with strong experience in building
-enterprise-grade analytics solutions across procurement, payroll, finance, and operations.
-My focus is on <b>performance-optimized data models</b>, <b>scalable architectures</b>,
-and <b>executive-ready dashboards</b>.
+I’m a <b>Principal Business Intelligence & Data Analytics Specialist</b>
+focused on designing and delivering enterprise-grade analytics solutions
+that help organizations turn complex data into meaningful business decisions.
 </p>
 
+<p>
+My work spans <b>Business Intelligence, Data Engineering, Cloud Analytics,
+Automation, and AI-powered solutions</b>, with a strong focus on scalable
+architecture, performance optimization, data quality, and user experience.
+</p>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎯 What I Focus On</h3>
+
 <ul>
-  <li>🏢 <b>Currently at:</b> A|M|S</li>
-  <li>📊 Advanced Power BI dashboards for procurement, payroll, and operations</li>
-  <li>🏗️ End-to-end data models using SQL Server, SharePoint, PostgreSQL, and Microsoft Fabric</li>
-  <li>⚙️ Automated reporting pipelines with Power Automate and Azure</li>
-  <li>🔌 API-based data ingestion (Amazon SP-API)</li>
+  <li>Enterprise Business Intelligence</li>
+  <li>Power BI architecture & development</li>
+  <li>Semantic modeling & DAX optimization</li>
+  <li>Microsoft Fabric solutions</li>
+  <li>Data engineering & integration</li>
+  <li>Executive dashboards & storytelling</li>
 </ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💡 What I Build</h3>
+
+<ul>
+  <li>Decision-ready dashboards</li>
+  <li>Scalable analytical data models</li>
+  <li>Automated reporting solutions</li>
+  <li>API-based data pipelines</li>
+  <li>AI-powered analytics applications</li>
+  <li>Business-focused data products</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<h2>🤝 Collaboration & Interests</h2>
+<!-- ========================================================= -->
+<!--                    PROFESSIONAL EXPERIENCE                -->
+<!-- ========================================================= -->
 
-<ul>
-  <li>Enterprise Business Intelligence & reporting solutions</li>
-  <li>Microsoft Fabric (Lakehouse, Warehouse, Dataflows Gen2)</li>
-  <li>Data modeling, DAX optimization, and performance tuning</li>
-  <li>Analytics use cases in finance, manufacturing, banking, and operations</li>
-</ul>
+<h2>🏢 Professional Focus</h2>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 📊 Business Intelligence
+
+Power BI  
+DAX  
+Data Modeling  
+Executive Reporting  
+Data Storytelling
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏗️ Data Platform
+
+Microsoft Fabric  
+Azure  
+Lakehouse  
+Warehouse  
+Data Integration
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 Advanced Analytics
+
+AI Analytics  
+Machine Learning  
+Automation  
+Decision Support  
+Intelligent Applications
+
+</td>
+
+</tr>
+</table>
 
 ---
+
+<!-- ========================================================= -->
+<!--                     CORE EXPERTISE                        -->
+<!-- ========================================================= -->
+
+<h2>🎯 Core Expertise</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Power%20Query%20%7C%20Modeling-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-Lakehouse%20%7C%20Warehouse-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure-Analytics%20%7C%20Integration-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Engineering-Pipelines%20%7C%20ETL-203A43?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL-Data%20Modeling%20%7C%20Analytics-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-Analytics%20%7C%20Automation-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-Analytics%20%7C%20Decision%20Support-2C5364?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Automation-Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                  ANALYTICS ARCHITECTURE                   -->
+<!-- ========================================================= -->
+
+<h2>🏗️ Analytics Architecture</h2>
+
+<p align="center">
+  <i>
+    From raw data to trusted insights and business decisions
+  </i>
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+  src="https://img.shields.io/badge/01%20%7C%20DATA%20SOURCES-SQL%20%7C%20APIs%20%7C%20Files-2F80ED?style=for-the-badge"
+/>
+
+&nbsp; →
+
+<img
+  src="https://img.shields.io/badge/02%20%7C%20DATA%20ENGINEERING-Fabric%20%7C%20Azure-512BD4?style=for-the-badge"
+/>
+
+&nbsp; →
+
+<img
+  src="https://img.shields.io/badge/03%20%7C%20DATA%20MODELING-Star%20Schema%20%7C%20DAX-203A43?style=for-the-badge"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://img.shields.io/badge/04%20%7C%20SEMANTIC%20LAYER-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+/>
+
+&nbsp; →
+
+<img
+  src="https://img.shields.io/badge/05%20%7C%20ANALYTICS-KPIs%20%7C%20Insights-2C5364?style=for-the-badge"
+/>
+
+&nbsp; →
+
+<img
+  src="https://img.shields.io/badge/06%20%7C%20BUSINESS%20IMPACT-Decision%20Making-0F2027?style=for-the-badge"
+/>
+
+</p>
+
+<br>
+
+<p align="center">
+  <b>Detect</b>
+  &nbsp; → &nbsp;
+  <b>Explain</b>
+  &nbsp; → &nbsp;
+  <b>Investigate</b>
+  &nbsp; → &nbsp;
+  <b>Recommend</b>
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                      TECHNOLOGY STACK                     -->
+<!-- ========================================================= -->
+
+<h2>💻 Technology Stack</h2>
+
+<h3>📊 Business Intelligence</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic%20Models-203A43?style=for-the-badge"/>
+</p>
+
+<h3>🏗️ Data Engineering & Cloud</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lakehouse-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Warehouse-2C5364?style=for-the-badge"/>
+</p>
+
+<h3>🗄️ Databases & Data Sources</h3>
+
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
+</p>
+
+<h3>⚙️ Development & Automation</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                       WHAT I BUILD                       -->
+<!-- ========================================================= -->
+
+<h2>🚀 What I Build</h2>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📊 Enterprise BI</h3>
+
+<ul>
+  <li>Executive dashboards</li>
+  <li>Operational reporting</li>
+  <li>KPI & performance analytics</li>
+  <li>Procurement analytics</li>
+  <li>Payroll & finance analytics</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏗️ Modern Data Platforms</h3>
+
+<ul>
+  <li>Microsoft Fabric architectures</li>
+  <li>Lakehouse & Warehouse solutions</li>
+  <li>Semantic models</li>
+  <li>Data transformation pipelines</li>
+  <li>API-based data ingestion</li>
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>⚙️ Automation</h3>
+
+<ul>
+  <li>Automated reporting</li>
+  <li>Power Automate workflows</li>
+  <li>Data refresh automation</li>
+  <li>Business process automation</li>
+  <li>API integrations</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤖 AI & Advanced Analytics</h3>
+
+<ul>
+  <li>AI-powered analytics assistants</li>
+  <li>Root-cause analysis</li>
+  <li>Decision-support applications</li>
+  <li>Machine learning use cases</li>
+  <li>Intelligent data applications</li>
+</ul>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                      -->
+<!-- ========================================================= -->
+
+<h2>⭐ Featured Projects</h2>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📊 Power BI Documentation Assistant</h3>
+
+<p>
+AI-powered documentation solution for analyzing Power BI
+models and generating documentation around tables,
+relationships, measures, DAX, and data sources.
+</p>
+
+<p>
+<b>Power BI</b> • <b>AI</b> • <b>Automation</b>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤖 AI-Powered Analytics</h3>
+
+<p>
+Exploring intelligent analytics solutions that help users
+understand performance, identify root causes, and move
+from insights to recommendations.
+</p>
+
+<p>
+<b>AI</b> • <b>Analytics</b> • <b>Decision Support</b>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏗️ Microsoft Fabric Solutions</h3>
+
+<p>
+Designing modern analytics architectures using Microsoft
+Fabric capabilities including Lakehouse, Warehouse,
+Dataflows Gen2, and semantic models.
+</p>
+
+<p>
+<b>Fabric</b> • <b>Data Engineering</b> • <b>Architecture</b>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📈 Enterprise BI Solutions</h3>
+
+<p>
+Building business-focused analytics solutions across
+procurement, payroll, finance, and operations with an
+emphasis on performance, usability, and storytelling.
+</p>
+
+<p>
+<b>Power BI</b> • <b>DAX</b> • <b>UX</b> • <b>Storytelling</b>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                  CURRENTLY EXPLORING                     -->
+<!-- ========================================================= -->
 
 <h2>🧠 Currently Exploring</h2>
 
-<ul>
-  <li>Advanced DAX optimization & large semantic models</li>
-  <li>Scalable data engineering workflows in Microsoft Fabric</li>
-  <li>REST API integration with Power BI & Azure</li>
-  <li>Applied analytics & ML for business use cases</li>
-</ul>
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Advanced%20DAX-Optimization-2F80ED?style=flat-square"/>
 
-<h2>💬 Ask Me About</h2>
+<img src="https://img.shields.io/badge/Large%20Semantic%20Models-203A43?style=flat-square"/>
 
-<ul>
-  <li>Power BI (DAX, Power Query, modeling, performance optimization)</li>
-  <li>Microsoft Fabric & Azure Analytics Stack</li>
-  <li>SQL Server & relational data design</li>
-  <li>Power Automate for analytics automation</li>
-  <li>Executive dashboards & data storytelling</li>
-</ul>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-512BD4?style=flat-square"/>
 
----
+<img src="https://img.shields.io/badge/AI%20Analytics-2C5364?style=flat-square"/>
 
-<h2>⚡ Fun Fact</h2>
+<img src="https://img.shields.io/badge/Machine%20Learning-3670A0?style=flat-square"/>
 
-<p>
-I treat performance optimization like a puzzle—and I don’t stop until the model runs fast,
-clean, and scalable.
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square"/>
+
 </p>
 
 ---
 
-<h2>📫 Connect With Me</h2>
+<!-- ========================================================= -->
+<!--                   ENGINEERING PRINCIPLES                  -->
+<!-- ========================================================= -->
 
-<ul>
-  <li>
-    LinkedIn:
-    <a href="https://www.linkedin.com/in/shahed-shaikh-4608a110b/" target="_blank">
-      Shahed Shaikh
-    </a>
-  </li>
-  <li>
-    Bluesky:
-    <a href="https://bsky.app/profile/shahedshaikh" target="_blank">
-      @shahedshaikh
-    </a>
-  </li>
-</ul>
+<h2>🛠️ Engineering Principles</h2>
 
----
+<table>
 
-<h2>💻 Tech Stack</h2>
+<tr>
+
+<td align="center" width="25%">
+
+### ⚡
+
+<b>Performance</b>
+
+Optimize before scaling
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+<b>Scalability</b>
+
+Design for growth
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+<b>Governance</b>
+
+Build with trust
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎯
+
+<b>Usability</b>
+
+Design for decisions
+
+</td>
+
+</tr>
+
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,postgres,python,github&theme=dark" />
+<b>
+Clean Data
+→ Strong Model
+→ Fast Performance
+→ Clear Story
+→ Better Decisions
+</b>
+
 </p>
 
 ---
+
+<!-- ========================================================= -->
+<!--                     GITHUB ACTIVITY                      -->
+<!-- ========================================================= -->
 
 <h2>📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahedshaikh&theme=dark"/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shahedshaikh&theme=dark"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedshaikh&layout=compact&theme=dark"/>
+  <i>
+    Exploring, building, and sharing solutions across
+    Business Intelligence, Data, Cloud, and AI.
+  </i>
 </p>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahedshaikh&theme=react-dark&hide_border=true" />
+
+  <a href="https://github.com/shahedshaikh">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=shahedshaikh&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+      height="180"
+      alt="Shahed's GitHub Statistics"
+    />
+  </a>
+
+  <a href="https://github.com/shahedshaikh">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedshaikh&layout=compact&langs_count=8&theme=dark&hide_border=true"
+      height="180"
+      alt="Shahed's Top Languages"
+    />
+  </a>
+
 </p>
+
+<br>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shahedshaikh&icon=0&color=0"/>
+
+  <a href="https://github.com/shahedshaikh?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub Repositories"
+    />
+  </a>
+
 </p>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" />
+---
 
+<!-- ========================================================= -->
+<!--                       ASK ME ABOUT                       -->
+<!-- ========================================================= -->
+
+<h2>💬 Ask Me About</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Modeling%20%7C%20Performance-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-Lakehouse%20%7C%20Warehouse-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure-Analytics%20%7C%20Integration-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-Data%20Modeling%20%7C%20Analytics-CC2927?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Automation-Power%20Automate-0066FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Analytics%20%7C%20Decision%20Support-203A43?style=for-the-badge"/>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                       FUN FACT                           -->
+<!-- ========================================================= -->
+
+<h2>⚡ A Little About Me</h2>
+
+<p align="center">
+
+<i>
+I treat performance optimization like a puzzle —
+I don’t stop until the model is fast, clean, scalable,
+and genuinely useful for the business.
+</i>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                       CONNECT                            -->
+<!-- ========================================================= -->
+
+<h2>📫 Let's Connect</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shahed-shaikh-4608a110/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Shahed%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/shahedshaikh">
+  <img
+    src="https://img.shields.io/badge/GitHub-shahedshaikh-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://bsky.app/profile/shahedshaikh">
+  <img
+    src="https://img.shields.io/badge/Bluesky-@shahedshaikh-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"
+  />
+</a>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                        FOOTER                             -->
+<!-- ========================================================= -->
+
+<p align="center">
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"
+/>
+
+</p>
